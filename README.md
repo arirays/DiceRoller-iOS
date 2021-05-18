@@ -1,6 +1,6 @@
 # DiceRollerApp-iOS
 
-
+![](https://github.com/arirays/DiceRoller-iOS/blob/main/%E2%9A%82_DiceRoller_%E2%9A%85.png)
 
 ## Table of Contents
 * [Description] (#description)
