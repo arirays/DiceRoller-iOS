@@ -17,6 +17,11 @@ Dice Roller is an app that allows you to roll virtual dices.
 Swift 5.4  
 UIKit / Programmatic UI
 
+## Demo
+![Simulator Screen Recording - iPhone 12 Pro - 2021-10-17 at 16 23 12](https://user-images.githubusercontent.com/51388551/137660389-22341f0a-99dd-4e6d-8c2a-a207c29c721d.gif)
+
+
+
 ## Motivation
 - Create an app with behaviour and functionality.
 - Create an app using programmatic UI.
